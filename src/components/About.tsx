@@ -13,13 +13,13 @@ export default function About() {
 
           <div className="mt-6 space-y-4 text-slate-300 leading-relaxed text-base">
             <p>
-              Actuellement **étudiant ingénieur en 4ème année à Galilée**, je me positionne à l'intersection de l'ingénierie des **Réseaux & Télécommunications** et du **Développement Cloud/Full-Stack**. Cette double culture technique me permet de concevoir des applications web performantes tout en maîtrisant les contraintes d'infrastructure, de routage et de sécurité réseau sous-jacentes.
+              Actuellement étudiant ingénieur en 4ème année à Galilée, je me positionne à l'intersection de l'ingénierie des Réseaux & Télécommunications et du Développement Cloud/Full-Stack. Cette double culture technique me permet de concevoir des applications web performantes tout en maîtrisant les contraintes d'infrastructure, de routage et de sécurité réseau sous-jacentes.
             </p>
             <p>
-              Ma démarche technique actuelle s'oriente fortement vers le **DevSecOps** et le *Security by Design*. Comme en témoigne mon projet e-commerce en cours, j'attache une importance cruciale à l'automatisation des pipelines CI/CD, à la conteneurisation (Docker) et à l'intégration d'audits de sécurité continus (SAST, scans de vulnérabilités).
+              Ma démarche technique actuelle s'oriente fortement vers le DevSecOps et le Security by Design. Comme en témoigne mon projet e-commerce en cours, j'attache une importance cruciale à l'automatisation des pipelines CI/CD, à la conteneurisation (Docker) et à l'intégration d'audits de sécurité continus (SAST, scans de vulnérabilités).
             </p>
             <p>
-              Rigoureux, curieux et habitué au travail en équipe — notamment à travers le développement de logiques embarquées en temps réel pour la robotique autonome — je recherche un **stage de 3 à 4 mois** pour mettre mes compétences en réseau, systèmes et développement logiciel au service de projets d'envergure.
+              Rigoureux, curieux et habitué au travail en équipe — notamment à travers le développement de logiques embarquées en temps réel pour la robotique autonome — je recherche un stage de 3 à 4 mois pour mettre mes compétences en réseau, systèmes et développement logiciel au service de projets d'envergure.
             </p>
           </div>
         </div>
